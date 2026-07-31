@@ -11,6 +11,7 @@ This repository contains projects and assignments completed as part of the **Web
 | :--- | :--- |
 | **`python_variable_annotations`** | Python 3 type annotations for functions and variables, complex typing (`List`, `Union`, `Tuple`, `Callable`, `Iterable`), duck typing, and `mypy` validation. |
 | **`python_async_function`** | Asynchronous programming with `asyncio`: coroutines, concurrent execution, tasks, and runtime measurement. |
+| **`python_async_comprehension`** | Async generators, async comprehensions, and parallel runtime measurement with `asyncio.gather`. |
 
 ---
 
