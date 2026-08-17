@@ -16,6 +16,7 @@ This project covers NoSQL concepts using MongoDB: querying, inserting, updating,
 | **6. Update** | Adds an `address` field to every document in `school` with `name` equal to `"Holberton school"`. | `6-update` |
 | **7. Delete by match** | Deletes every document in `school` with `name` equal to `"Holberton school"`. | `7-delete` |
 | **8. List all documents in Python** | `list_all(mongo_collection)` returns every document in a collection as a list, or `[]` if empty. | `8-all.py` |
+| **9. Insert a document in Python** | `insert_school(mongo_collection, **kwargs)` inserts a document built from keyword arguments and returns its new `_id`. | `9-insert_school.py` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
