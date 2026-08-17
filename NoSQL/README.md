@@ -8,6 +8,7 @@ This project covers NoSQL concepts using MongoDB: querying, inserting, updating,
 | Task | Description | File |
 | :--- | :--- | :--- |
 | **0. List all databases** | Lists all databases in MongoDB. | `0-list_databases` |
+| **1. Create a database** | Switches to (and lazily creates) the database `my_db`. | `1-use_or_create_database` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
