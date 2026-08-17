@@ -1,0 +1,13 @@
+# NoSQL
+
+## Description
+This project covers NoSQL concepts using MongoDB: querying, inserting, updating, and deleting documents via the mongo shell, plus equivalent operations in Python with PyMongo. Every shell script starts with a `//` comment, every Python module/function is documented, and Python code follows pycodestyle.
+
+## Tasks
+
+| Task | Description | File |
+| :--- | :--- | :--- |
+| **0. List all databases** | Lists all databases in MongoDB. | `0-list_databases` |
+
+## Author
+* **Luis Gonzalez** - Holberton School
