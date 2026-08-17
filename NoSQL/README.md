@@ -13,6 +13,7 @@ This project covers NoSQL concepts using MongoDB: querying, inserting, updating,
 | **3. All documents** | Lists every document in the `school` collection. | `3-all` |
 | **4. All matches** | Lists documents in `school` where `name` equals `"Holberton school"`. | `4-match` |
 | **5. Count** | Displays the number of documents in the `school` collection. | `5-count` |
+| **6. Update** | Adds an `address` field to every document in `school` with `name` equal to `"Holberton school"`. | `6-update` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
