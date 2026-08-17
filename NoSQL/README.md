@@ -19,6 +19,7 @@ This project covers NoSQL concepts using MongoDB: querying, inserting, updating,
 | **9. Insert a document in Python** | `insert_school(mongo_collection, **kwargs)` inserts a document built from keyword arguments and returns its new `_id`. | `9-insert_school.py` |
 | **10. Change school topics** | `update_topics(mongo_collection, name, topics)` sets the `topics` list on every document matching `name`. | `10-update_topics.py` |
 | **11. Where can I learn Python?** | `schools_by_topic(mongo_collection, topic)` returns the list of schools whose `topics` include the given topic. | `11-schools_by_topic.py` |
+| **12. Log stats** | Prints stats (total count, counts per HTTP method, GET `/status` count) for the `logs.nginx` collection. | `12-log_stats.py` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
