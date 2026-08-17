@@ -11,6 +11,7 @@ This project covers NoSQL concepts using MongoDB: querying, inserting, updating,
 | **1. Create a database** | Switches to (and lazily creates) the database `my_db`. | `1-use_or_create_database` |
 | **2. Insert document** | Inserts a document (`name: "Holberton school"`) into the `school` collection. | `2-insert` |
 | **3. All documents** | Lists every document in the `school` collection. | `3-all` |
+| **4. All matches** | Lists documents in `school` where `name` equals `"Holberton school"`. | `4-match` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
