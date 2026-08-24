@@ -14,6 +14,7 @@ This repository contains projects and assignments completed as part of the **Web
 | **`python_async_comprehension`** | Async generators, async comprehensions, and parallel runtime measurement with `asyncio.gather`. |
 | **`pagination`** | Paginating a dataset with simple index ranges, hypermedia metadata, and deletion-resilient indexing. |
 | **`NoSQL`** | MongoDB shell scripts and PyMongo functions for querying, inserting, updating, and deleting documents. |
+| **`ES6_basic`** | ES6 fundamentals: const/let, arrow functions, default/rest parameters, template literals, object property shorthand, and iterators. |
 
 ---
 
