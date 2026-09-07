@@ -16,6 +16,7 @@ This project covers ES6 Promises: creating and resolving/rejecting them, chainin
 | **6. Handle multiple promises** | `handleProfileSignup` uses `Promise.allSettled` to combine `signUpUser` and `uploadPhoto`, normalizing both outcomes into `{status, value}`. | `6-final-user.js` |
 | **7. Load balancer** | `loadBalancer` uses `Promise.race` to return the value of whichever download promise settles first. | `7-load_balancer.js` |
 | **8. Throw an error** | `divideFunction(numerator, denominator)` throws `Error('cannot divide by 0')` when dividing by zero. | `8-try.js` |
+| **9. Throw error / try catch** | `guardrail(mathFunction)` runs a function inside `try`/`catch`/`finally`, logging its result or error to a queue. | `9-try.js` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
