@@ -17,6 +17,8 @@ This repository contains projects and assignments completed as part of the **Web
 | **`ES6_basic`** | ES6 fundamentals: const/let, arrow functions, default/rest parameters, template literals, object property shorthand, and iterators. |
 | **`ES6_classes`** | ES6 classes: constructors, getters/setters, static methods, inheritance, abstract classes, and primitive coercion. |
 | **`ES6_data_manipulation`** | Array map/filter/reduce, typed arrays, and the Set/Map/WeakMap data structures. |
+| **`ES6_promise`** | Promises, then/catch, Promise.all/allSettled/race, and async/await with try/catch. |
+| **`Node_JS_basic`** | Core Node.js: file I/O, process/stdin, HTTP servers (raw http and Express), and a structured Express app (full_server). |
 
 ---
 
