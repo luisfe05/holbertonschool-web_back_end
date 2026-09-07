@@ -13,6 +13,7 @@ This project covers core Node.js: running JavaScript with `node`, reading files 
 | **3. Reading a file asynchronously** | Same as task 2, but returns a Promise and reads the file asynchronously. | `3-read_file_async.js` |
 | **4. Create a small HTTP server using Node's HTTP module** | Raw `http` server on port 1245; every endpoint returns `Hello Holberton School!`. | `4-http.js` |
 | **5. Create a more complex HTTP server using Node's HTTP module** | Raw `http` server: `/` returns a greeting, `/students` returns the student count report from `database.csv`. | `5-http.js` |
+| **6. Create a small HTTP server using Express** | Express server on port 1245; `/` returns `Hello Holberton School!`. | `6-http_express.js` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
