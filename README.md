@@ -16,6 +16,7 @@ This repository contains projects and assignments completed as part of the **Web
 | **`NoSQL`** | MongoDB shell scripts and PyMongo functions for querying, inserting, updating, and deleting documents. |
 | **`ES6_basic`** | ES6 fundamentals: const/let, arrow functions, default/rest parameters, template literals, object property shorthand, and iterators. |
 | **`ES6_classes`** | ES6 classes: constructors, getters/setters, static methods, inheritance, abstract classes, and primitive coercion. |
+| **`ES6_data_manipulation`** | Array map/filter/reduce, typed arrays, and the Set/Map/WeakMap data structures. |
 
 ---
 
