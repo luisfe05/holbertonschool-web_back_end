@@ -14,6 +14,7 @@ This project covers ES6 Promises: creating and resolving/rejecting them, chainin
 | **4. Simple promise** | `signUpUser(firstName, lastName)` returns a promise resolved with `{firstName, lastName}`. | `4-user-promise.js` |
 | **5. Reject the promises** | `uploadPhoto(filename)` returns a promise rejected with `` `${filename} cannot be processed` ``. | `5-photo-reject.js` |
 | **6. Handle multiple promises** | `handleProfileSignup` uses `Promise.allSettled` to combine `signUpUser` and `uploadPhoto`, normalizing both outcomes into `{status, value}`. | `6-final-user.js` |
+| **7. Load balancer** | `loadBalancer` uses `Promise.race` to return the value of whichever download promise settles first. | `7-load_balancer.js` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
