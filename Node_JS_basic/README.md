@@ -15,6 +15,7 @@ This project covers core Node.js: running JavaScript with `node`, reading files 
 | **5. Create a more complex HTTP server using Node's HTTP module** | Raw `http` server: `/` returns a greeting, `/students` returns the student count report from `database.csv`. | `5-http.js` |
 | **6. Create a small HTTP server using Express** | Express server on port 1245; `/` returns `Hello Holberton School!`. | `6-http_express.js` |
 | **7. Create a complex HTTP server using Express** | Express server: `/` returns a greeting, `/students` returns the student count report. | `7-http_express.js` |
+| **8. Organize a complex HTTP server using Express** | Same server, refactored into ES6 modules with controllers and routes, run via `babel-node`. | `full_server/utils.js`, `full_server/controllers/AppController.js`, `full_server/controllers/StudentsController.js`, `full_server/routes/index.js`, `full_server/server.js` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
