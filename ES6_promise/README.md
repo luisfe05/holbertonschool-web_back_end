@@ -11,6 +11,7 @@ This project covers ES6 Promises: creating and resolving/rejecting them, chainin
 | **1. Don't make a promise...if you know you can't keep it** | `getFullResponseFromAPI(success)` resolves with `{status, body}` or rejects with an `Error`, based on the boolean argument. | `1-promise.js` |
 | **2. Catch me if you can!** | `handleResponseFromAPI` chains `.then()`, `.catch()`, and `.finally()` to normalize the result and always log a message. | `2-then.js` |
 | **3. Handle multiple successful promises** | `handleProfileSignup` uses `Promise.all` to combine `uploadPhoto` and `createUser`. | `3-all.js` |
+| **4. Simple promise** | `signUpUser(firstName, lastName)` returns a promise resolved with `{firstName, lastName}`. | `4-user-promise.js` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
