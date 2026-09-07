@@ -15,6 +15,7 @@ This repository contains projects and assignments completed as part of the **Web
 | **`pagination`** | Paginating a dataset with simple index ranges, hypermedia metadata, and deletion-resilient indexing. |
 | **`NoSQL`** | MongoDB shell scripts and PyMongo functions for querying, inserting, updating, and deleting documents. |
 | **`ES6_basic`** | ES6 fundamentals: const/let, arrow functions, default/rest parameters, template literals, object property shorthand, and iterators. |
+| **`ES6_classes`** | ES6 classes: constructors, getters/setters, static methods, inheritance, abstract classes, and primitive coercion. |
 
 ---
 
