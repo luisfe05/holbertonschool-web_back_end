@@ -12,6 +12,8 @@ This project covers ES6 Promises: creating and resolving/rejecting them, chainin
 | **2. Catch me if you can!** | `handleResponseFromAPI` chains `.then()`, `.catch()`, and `.finally()` to normalize the result and always log a message. | `2-then.js` |
 | **3. Handle multiple successful promises** | `handleProfileSignup` uses `Promise.all` to combine `uploadPhoto` and `createUser`. | `3-all.js` |
 | **4. Simple promise** | `signUpUser(firstName, lastName)` returns a promise resolved with `{firstName, lastName}`. | `4-user-promise.js` |
+| **5. Reject the promises** | `uploadPhoto(filename)` returns a promise rejected with `` `${filename} cannot be processed` ``. | `5-photo-reject.js` |
+| **6. Handle multiple promises** | `handleProfileSignup` uses `Promise.allSettled` to combine `signUpUser` and `uploadPhoto`, normalizing both outcomes into `{status, value}`. | `6-final-user.js` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
